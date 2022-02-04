@@ -2,19 +2,22 @@
 ![Olá](https://github.com/ThiagoDaurizio/thiagodaurizio/blob/master/Header.png)
 
 <p align="center">
-  <a href="#sobre"> Sobre </a> |
-  <a href="#tecnologias"> Tecnologias </a> |
-  <a href="#dados"> Dados </a> |
-  <a href="#projetos"> Projetos </a> |
+  <img width="25" height="15" alt="thiago-github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/thiago-daurizio-616b54226/" target="_blank"> LinkedIn</a> |
+  <a href="#sobre">Sobre</a> |
+  <a href="#tecnologias">Tecnologias</a> |
+  <a href="#dados">Dados</a> |
+  <a href="#projetos">Projetos</a>
  </p>
 
-<p style="backgroundColor: blue"> <img width="25" height="20" alt="thiago-github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> teste </p>
+
 
 <div align="center">
 
 ### sobre
   
 <div style="display: inline_block"><br>
+  
+
   
 ~~~javascript
 Texto fff
