@@ -1,4 +1,5 @@
-<h2 align="center" style="color:red">  "Olá Mundo" Thiago aqui ☺️💻 </h2>
+
+![Olá](https://github.com/ThiagoDaurizio/thiagodaurizio/blob/master/Header.png)
 
 <p align="center">
   <a href="#sobre"> Sobre </a> |
@@ -60,6 +61,7 @@ Texto Testado
 
 <!--
 **ThiagoDaurizio/thiagodaurizio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center" style="color:red">  "Olá Mundo" Thiago aqui ☺️💻 </h2>
 
 Here are some ideas to get you started:
 
