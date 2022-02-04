@@ -2,7 +2,7 @@
 ![Olá](https://github.com/ThiagoDaurizio/thiagodaurizio/blob/master/Header.png)
 
 <p align="center">
-  <img width="25" height="15" alt="thiago-github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/thiago-daurizio-616b54226/" target="_blank"> LinkedIn</a> |
+  <img width="25" height="15" alt="thiago-header" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/thiago-daurizio-616b54226/" target="_blank"> LinkedIn</a> |
   <a href="#sobre">Sobre</a> |
   <a href="#tecnologias">Tecnologias</a> |
   <a href="#dados">Dados</a> |
@@ -34,15 +34,15 @@ Texto Testado
   
 <div style="display: inline_block" align="center">
 
-  <img width="45" height="40" alt="thiago-github"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img width="45" height="40" alt="thiago-github"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img width="45" height="40" alt="thiago-github"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img width="45" height="40" alt="thiago-github"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> 
-  <img width="45" height="40" alt="thiago-github"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img width="45" height="40" alt="thiago-github"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img width="45" height="40" alt="thiago-github"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img width="45" height="40" alt="thiago-html"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img width="45" height="40" alt="thiago-css"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img width="45" height="40" alt="thiago-javascript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img width="45" height="40" alt="thiago-typescript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> 
+  <img width="45" height="40" alt="thiago-react"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img width="45" height="40" alt="thiago-mysql"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img width="45" height="40" alt="thiago-nodejs"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img width="45" height="40" alt="thiago-github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img width="45" height="40" alt="thiago-github"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img width="45" height="40" alt="thiago-git"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 
 </div>
 
