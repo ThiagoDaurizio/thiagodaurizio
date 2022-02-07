@@ -48,8 +48,27 @@
   
 ### Projetos
 
+  <div align="left" width="150">
+  -) http://daurizio-labefy.surge.sh/
+Labefy: Um app de discoteca virtual utilizando de React,
+Styled-Components, e Integração de APIs com o Axios.
 
+  -) http://daurizio-astromatch.surge.sh/
+Astromatch: Um app para matches utilizando de React,
+Styled-Components, e Integração de APIs com o Axios.
 
+  -) http://daurizio-labex.surge.sh/
+Labex: Um app de viagens espaciais, com áreas publicas e
+privadas do site utilizando de React, Styled-Components,
+Integração de APIs com o Axios e Hooks.
+  
+  -) http://daurizio-labeddit.surge.sh/login
+Labeeddit: Um app de rede social, permitindo o usuário
+postar, dar like ou dislike executando funções de Login e
+Signup utilizando de React, Styled-Components, e
+Integração de APIs com o Axios.
+
+  </div>
 ##
   
 </div>  
