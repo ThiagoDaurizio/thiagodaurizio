@@ -48,7 +48,7 @@
   
 ### Projetos
 
-  <div align="left" width="150">
+  <div align="left" style="display: inline-block; width:500px">
   -) http://daurizio-labefy.surge.sh/
 Labefy: Um app de discoteca virtual utilizando de React,
 Styled-Components, e Integração de APIs com o Axios.
