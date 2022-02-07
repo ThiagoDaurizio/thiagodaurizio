@@ -13,24 +13,16 @@
 
 <div align="center">
 
-### sobre
+### Sobre
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="left"><br/>
   
-
-  
-~~~javascript
-Texto fff
-  Texto
-~~~
-  
-``` lang-js
-Texto Testado
-```
+  - Olá, sou um Desenvolvedor Web Full-Stack formado pela <a href="https://www.labenu.com.br/" target="_blank"> Labenu </a>
+  - Tenho bastante afinidade com ReactJS, estilização, lógica e estou a procura de oportunidades.
   
 </div>
 
-### tecnologias
+### Tecnologias
   
 <div style="display: inline_block" align="center">
 
@@ -46,7 +38,7 @@ Texto Testado
 
 </div>
 
-### dados
+### Dados
   
 <div style="display: inline_block">
   
@@ -54,7 +46,7 @@ Texto Testado
 
 </div>
   
-### projetos
+### Projetos
 
 
 
