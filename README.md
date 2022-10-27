@@ -5,8 +5,7 @@
   <img width="25" height="15" alt="thiago-header" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/thiago-daurizio-616b54226/" target="_blank"> LinkedIn</a> |
   <a href="#sobre">Sobre</a> |
   <a href="#tecnologias">Tecnologias</a> |
-  <a href="#dados">Dados</a> |
-  <a href="#projetos">Projetos</a>
+  <a href="#dados">Dados</a>
  </p>
 
 
@@ -45,23 +44,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagodaurizio&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&show)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-  
-### Projetos
-
-  <div align="left" width:250px>
-  -) http://daurizio-labefy.surge.sh/
-Labefy: Um app de discoteca virtual utilizando de React, Styled-Components, e Integração de APIs com o Axios.
-
-  -) http://daurizio-astromatch.surge.sh/
-Astromatch: Um app para matches utilizando de React, Styled-Components, e Integração de APIs com o Axios.
-
-  -) http://daurizio-labex.surge.sh/
-Labex: Um app de viagens espaciais, com áreas publicas e privadas do site utilizando de React, Styled-Components, Integração de APIs com o Axios e Hooks.
-  
-  -) http://daurizio-labeddit.surge.sh/login
-Labeeddit: Um app de rede social, permitindo o usuário postar, dar like ou dislike executando funções de Login e Signup utilizando de React, Styled-Components, e Integração de APIs com o Axios.
-
-  </div>
 ##
   
 </div>  
