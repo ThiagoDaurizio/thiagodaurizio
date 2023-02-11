@@ -16,7 +16,7 @@
   
 <div style="display: inline_block" align="left"><br/>
   
-  - Olá, sou um Desenvolvedor Web Full-Stack formado pela <a href="https://www.labenu.com.br/" target="_blank"> Labenu </a>
+  - Olá, sou um Desenvolvedor Web Full-Stack.
   - Tenho bastante afinidade com ReactJS, estilização, lógica e estou a procura de oportunidades.
   
 </div>
