@@ -17,9 +17,14 @@
 <div style="display: inline_block" align="left"><br/>
   
   - Olá, sou um Desenvolvedor Web Full-Stack.
-  - Tenho bastante afinidade com ReactJS, estilização, lógica e estou a procura de oportunidades.
+  - Tenho bastante afinidade com: Shopify · Next.js · React · TypeScript · Node.js · Tailwind · VTEX IO · Liquid · Javascript.
+  - Meu Portfólio: [Thiago Daurizio](https://portfolio-thiago-daurizio.vercel.app/)
   
 </div>
+
+
+
+
 
 ### Tecnologias
   
@@ -36,7 +41,7 @@
   <img width="45" height="40" alt="thiago-git"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 
 </div>
-
+<!--
 ### Dados
   
 <div style="display: inline_block">
@@ -45,7 +50,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodaurizio&layout=compact&theme=dark&show)](https://github.com/thiagodaurizio/github-readme-stats)
 
 </div>
-  
+-->
 </div>  
 
 <!--
