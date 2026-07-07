@@ -62,9 +62,9 @@
 Construindo aplicações web modernas, e-commerces escaláveis e experiências digitais de alta qualidade.
 
 <p>
-  <a href="https://portfolio-thiago-daurizio.vercel.app">🌐 Portfólio</a> •
-  <a href="https://linkedin.com/in/thiago-daurizio">💼 LinkedIn</a> •
-  <a href="mailto:thiagodaurizio@gmail.com">✉️ E-mail</a>
+  <a href="https://portfolio-thiago-daurizio.vercel.app">Portfólio</a> •
+  <a href="https://linkedin.com/in/thiago-daurizio">LinkedIn</a> •
+  <a href="mailto:thiagodaurizio@gmail.com">E-mail</a>
 </p>
 
 </div>
@@ -96,6 +96,8 @@ Além da atuação profissional, gosto de desenvolver projetos pessoais relacion
 ### Back-end
 
 - Node.js
+- Java
+- Prisma
 - Firebase
 
 ### Plataformas
