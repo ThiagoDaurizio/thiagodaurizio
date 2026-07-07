@@ -1,4 +1,5 @@
 
+<!--
 ![Olá](https://github.com/ThiagoDaurizio/thiagodaurizio/blob/master/Header.png)
 
 <p align="center">
@@ -41,7 +42,6 @@
   <img width="45" height="40" alt="thiago-git"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 
 </div>
-<!--
 ### Dados
   
 <div style="display: inline_block">
@@ -50,21 +50,122 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodaurizio&layout=compact&theme=dark&show)](https://github.com/thiagodaurizio/github-readme-stats)
 
 </div>
--->
 </div>  
+-->
+
+<div align="center">
+
+# Thiago Daurizio
+
+### Desenvolvedor Full Stack
+
+Construindo aplicações web modernas, e-commerces escaláveis e experiências digitais de alta qualidade.
+
+<p>
+  <a href="https://portfolio-thiago-daurizio.vercel.app">🌐 Portfólio</a> •
+  <a href="https://linkedin.com/in/thiago-daurizio">💼 LinkedIn</a> •
+  <a href="mailto:thiagodaurizio@gmail.com">✉️ E-mail</a>
+</p>
+
+</div>
+
+---
+
+# 👋 Olá!
+
+Prazer! Sou o **Thiago Daurizio**, Desenvolvedor Full Stack com mais de **5 anos de experiência** desenvolvendo aplicações web modernas e soluções para e-commerce.
+
+Ao longo da minha carreira trabalhei em projetos utilizando **React**, **Next.js**, **TypeScript**, **Node.js**, **Shopify** e **VTEX IO**, sempre buscando criar aplicações escaláveis, performáticas e com ótima experiência para o usuário.
+
+Além da atuação profissional, gosto de desenvolver projetos pessoais relacionados a **Game Design**, **Arquitetura de Software**, **UI/UX** e construção de sistemas.
+
+---
+
+# 🚀 Tecnologias
+
+### Front-end
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML
+- CSS / SCSS
+- Tailwind CSS
+
+### Back-end
+
+- Node.js
+- Firebase
+
+### Plataformas
+
+- Shopify
+- VTEX IO
+- Salesforce Commerce Cloud
+
+### Ferramentas
+
+- Git
+- GitHub
+- Azure DevOps
+- Postman
+- Figma
+- Jira
+- ClickUp
+
+---
+
+# 💼 Experiência
+
+### EConverse
+
+Desenvolvimento de lojas Shopify totalmente customizadas, criando soluções específicas para cada cliente e implementando funcionalidades além do padrão da plataforma.
+
+### Keyrus
+
+Atuação em projetos nacionais e internacionais utilizando React, Node.js, VTEX IO e Salesforce Commerce Cloud.
+
+### Codeby
+
+Desenvolvimento de e-commerces utilizando VTEX CMS e VTEX IO, além da minha primeira implantação completa em Shopify.
+
+---
+
+# 🚀 Projetos Pessoais
+
+Além dos projetos profissionais, gosto de estudar e desenvolver soluções envolvendo:
+
+- 🎮 Game Design
+- 🧩 Sistemas para RPG
+- 🌍 Worldbuilding
+- 🏗️ Arquitetura de Software
+- 🎨 UI/UX
+- ⚡ Aplicações Web Experimentais
+
 
 <!--
-**ThiagoDaurizio/thiagodaurizio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h2 align="center" style="color:red">  "Olá Mundo" Thiago aqui ☺️💻 </h2>
+# 📊 Estatísticas
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](https://github-readme-stats.vercel.app/api?username=ThiagoDaurizio&show_icons=true&hide_border=true&theme=github_dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDaurizio&layout=compact&hide_border=true&theme=github_dark)
+
+</div>
 -->
+---
+
+# 📫 Contato
+
+📍 São Paulo - SP
+
+🌐 Portfólio  
+https://portfolio-thiago-daurizio.vercel.app
+
+💼 LinkedIn  
+https://linkedin.com/in/thiago-daurizio
+
+✉️ E-mail  
+thiagodaurizio@gmail.com
